@@ -11,7 +11,7 @@ There seems to be a problem with your connection.\n'+
   );
 });
 
-var BASE_PATH = '/DesignForMobileDevices2/';
+var BASE_PATH = '/WeddingApp/';
 var CACHE_NAME = 'gih-cache';
 var TEMP_IMAGE_CACHE_NAME = 'temp-cache-v1'
 var CACHED_URLS = [
