@@ -17,6 +17,14 @@ var TEMP_IMAGE_CACHE_NAME = 'temp-cache-v1'
 var CACHED_URLS = [
     //Our HTML
     BASE_PATH + 'index.html',
+    BASE_PATH + 'aboutus.html',
+    BASE_PATH + 'accessories.html',
+    BASE_PATH + 'bridalshops.html',
+    BASE_PATH + 'bridedress.html',
+    BASE_PATH + 'bridemaids.html',
+    BASE_PATH + 'contactus.html',
+    BASE_PATH + 'flowergirl',
+    BASE_PATH + 'mother.html',
     
     //Images for favicons
     BASE_PATH + 'images/favicons/android-icon-36x36.png',
